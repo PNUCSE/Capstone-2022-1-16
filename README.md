@@ -93,5 +93,9 @@ host = 'ip 주소'
 
   4.1 PythonLipYOLOv7/server/TCP_server.py 를 실행합니다.
   
-  4.2 VR기기를 켜서 
+  4.2 VR기기를 켜서 앱을 구동합니다.
+  
+  4.3 스마트폰 앱을 켜서 데스크탑 ip주소와 VR기기의 ip주소를 입력하고 start 버튼을 누릅니다.
+  
+  4.4 PythonLipYOLOv7/yolov7-main/run.py를 실행합니다.
   
