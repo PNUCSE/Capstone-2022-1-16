@@ -49,6 +49,9 @@ Jinseo Kim, rlawlstj1103@pusan.ac.kr, HMD Tracking
 0. 파일 다운로드
 
   git clone을 통하여 repository의 파일들을 다운받습니다.
+  
+  https://drive.google.com/file/d/19dLWRu9y50oECUQIeGrM9GHKKwwIGAML/view?usp=sharing UnityARCameraApp package 링크
+  https://drive.google.com/file/d/1sUvXc_zr1jzK_9OQmeaek8ktdZeQg5DT/view?usp=sharing UnityVRProject package 링크
 
 1. 환경설정
 
