@@ -20,13 +20,13 @@
 
 저희 띵호와 팀의 팀원을 소개합니다.
 
-**띵호와란?** 저희 이명호 지도교수님의 별명인 띵호에서 착안하여, **띵호와 함께 한다**는 뜻으로 지었습니다.
+띵호와란? 저희 지도교수이신 이명호 교수님의 별명인 띵호에서 착안하여, 띵호와 함께 한다는 뜻입니다.
 
-Kyoungchan Kang, kangkc09@pusan.ac.kr, Tcp communication & Unity 
+Kyoungchan Kang, kangkc09@pusan.ac.kr, **Tcp Communication & Unity**
 
-Yerin Park, diluny2@naver.com, Lip motion Deep Learning
+Yerin Park, diluny2@naver.com, **Lip Motion Deep Learning**
 
-Jinseo Kim, rlawlstj1103@pusan.ac.kr, HMD Tracking
+Jinseo Kim, rlawlstj1103@pusan.ac.kr, **HMD Tracking**
 
 ### 3. 시스템 구성도
 
