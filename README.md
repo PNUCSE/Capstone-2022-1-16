@@ -85,7 +85,7 @@ $ pip install -r requirements.txt
   
    **반드시 스마트폰, 데스크탑(or 노트북), VR기기가 같은 wifi에 연결되어 있어야 합니다.**
 
-  - PythonLipYOLOv7/server/TCP_server.py에서 Line 59에 파이썬을 구동시키는 ip주소를 입력하면 됩니다.
+  - PythonLipYOLOv7/server/TCP_server.py에서 Line 59에 파이썬을 구동시키는 데스크탑의 ip주소를 입력하면 됩니다.
 ```
 server = ServerSocket('ip 주소', 50000)
 ```
