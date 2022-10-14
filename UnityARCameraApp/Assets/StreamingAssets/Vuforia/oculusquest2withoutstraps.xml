@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="oculusquest2withoutstraps" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="oculusquest2withoutstrapss_assembly" assemblyId="1a12518474a54d42978abd99359a3d38">
+<Part name="oculusquest2withoutstraps" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0003" translation="0.0149191 0.162061 0.693601" rotation="AD: 1 -0.00244675 -0.00890971 149.29" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.154143 0.0749859 0.68972" rotation="AD: 0.999975 0.035343 0.207323 161.058" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.0173543 0.218399 0.759702" rotation="AD: 1 -0.00429713 -0.0119148 140.339" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="-0.156395 0.127133 0.743123" rotation="AD: 0.999946 0.0517167 0.210453 152.991" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_00011" translation="0.0051735 0.193152 0.720012" rotation="AD: 1 0.000996404 0.00310977 144.468" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

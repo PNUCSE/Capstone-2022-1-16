@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.6.0-6-g4fb8708">
+        <ModelTarget name="oculusquest2_Copy2" targetId="5f10e389fd68424abafb43ed0336786e" version="13.0" toolVersion="v5.6.0-6-g4fb8708" bbox="-0.095117 -0.053091 0.156696 0.103441 0.057359 0.303331" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="oculusquest2_Copy2" assemblyId="b3bfd3e0b1bb4f548a62bf595b6dff2c">
+        <Part name="oculusquest2_Copy2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

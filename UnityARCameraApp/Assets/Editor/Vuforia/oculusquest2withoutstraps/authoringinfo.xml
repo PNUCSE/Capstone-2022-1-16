@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.9.3">
+<ModelTarget name="oculusquest2withoutstraps" targetId="6e574ced828c42b4a497706fbf8c86f2" version="14.0" toolVersion="10.9.3" bbox="-0.088413 -0.103327 0.334578 0.103804 -0.001168 0.476376" previewImage="6e574ced828c42b4a497706fbf8c86f2_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="oculusquest2withoutstrapss_assembly" assemblyId="1a12518474a54d42978abd99359a3d38">
+<Part name="oculusquest2withoutstraps" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0003" translation="0.0149191 0.162061 0.693601" rotation="AD: 1 -0.00244675 -0.00890971 149.29" image="oculusquest2withoutstraps_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.154143 0.0749859 0.68972" rotation="AD: 0.999975 0.035343 0.207323 161.058" image="oculusquest2withoutstraps_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.0173543 0.218399 0.759702" rotation="AD: 1 -0.00429713 -0.0119148 140.339" image="oculusquest2withoutstraps_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="-0.156395 0.127133 0.743123" rotation="AD: 0.999946 0.0517167 0.210453 152.991" image="oculusquest2withoutstraps_GuideView_0005.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_00011" translation="0.0051735 0.193152 0.720012" rotation="AD: 1 0.000996404 0.00310977 144.468" image="oculusquest2withoutstraps_GuideView_00011.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

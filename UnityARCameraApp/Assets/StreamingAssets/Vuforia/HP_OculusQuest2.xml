@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="HP_OculusQuest2" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="HP_OculusQuest2s_assembly" assemblyId="17cb160400744062a9aed6d65fed5997">
+<Part name="HP_OculusQuest2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0001" translation="-0.000264947 0.062621 1.42166" rotation="AD: 1 0.00015033 0.00110054 164.444" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.0473574 0.0527952 1.70371" rotation="AD: 0.999984 -0.0233815 -0.250285 169.646" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="-0.0472992 0.0439032 1.69088" rotation="AD: 0.999997 0.00988516 0.24948 175.597" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="-0.00207875 -0.0525003 1.69872" rotation="AD: 1 -0.00466547 0.0101153 229.518" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="0.00154894 0.0885651 1.66566" rotation="AD: 1 -0.00253539 -0.00791405 144.474" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="0.000944335 0.0494649 1.42975" rotation="AD: 1 -0.000312842 -0.00490912 172.707" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

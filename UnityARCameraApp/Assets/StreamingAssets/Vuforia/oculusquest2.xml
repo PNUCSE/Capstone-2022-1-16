@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="oculusquest2" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="oculusquest2s_assembly" assemblyId="4a53ccc0e6724b9f846d0260a7e04f5c">
+<Part name="oculusquest2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0001" translation="0.0115181 -0.050579 0.569803" rotation="AD: 1 0.000928628 -0.0172397 186.166" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
