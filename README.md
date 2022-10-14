@@ -63,11 +63,11 @@ $ pip install -r requirements.txt
   Unity 프로젝트가 두개이므로 두 개의 프로젝트를 생성해야합니다.
   
   
-  먼저 UnityARCameraApp이라는 **3D unity프로젝트를 생성**한 후, 상단 메뉴 탭에 **Assets->Import package->Custom package...** 를 클릭하여
+  먼저 UnityARCameraApp이라는 3D unity프로젝트를 생성한 후, 상단 메뉴 탭에 **Assets->Import package->Custom package...** 를 클릭하여
   UnityARCameraApp/UnityARCameraApp.unitypackage파일을 선택하면 프로젝트 업로드가 완료됩니다.
   
   
-  그 다음 UnityVRProject라는 **3D unity 프로젝트를 생성**한 후, 같은 방법으로 UnityVRProject/UnityVRProject.unitypackage를 Import package하시면 프로젝트 업로드가 됩니다.
+  그 다음 UnityVRProject라는 3D unity 프로젝트를 생성한 후, 같은 방법으로 UnityVRProject/UnityVRProject.unitypackage를 Import package하시면 프로젝트 업로드가 됩니다.
   
 <br>
   
@@ -89,22 +89,22 @@ host = 'ip 주소'
 
 **3. Unity application 빌드**
 
-  - **UnityARCameraApp 프로젝트에서 스마트폰을 연결**하고 상단 메뉴 탭에 File->Build Settings... 에서 Run Device에 해당 스마트폰이 연결되었는지 확인한 후
+  - UnityARCameraApp 프로젝트에서 스마트폰을 연결하고 상단 메뉴 탭에 File->Build Settings... 에서 Run Device에 해당 스마트폰이 연결되었는지 확인한 후
   Build and run을 합니다.
   
-  - **UnityVRProject 프로젝트에서 VR 기기를 연결**하고 상단 메뉴 탭에 File->Build Settings... 에서 Run Device에 VR 기기가 연결되었는지 확인한 후 Build and run을 합니다.
+  - UnityVRProject 프로젝트에서 VR 기기를 연결하고 상단 메뉴 탭에 File->Build Settings... 에서 Run Device에 VR 기기가 연결되었는지 확인한 후 Build and run을 합니다.
   
-  - Oculus quest 2의 경우 상단 메뉴 탭에서 **Oculus->Platform->Edit Settings**에 해당 기기의 시리얼 키를 입력해야 합니다.
+  - Oculus quest 2의 경우 상단 메뉴 탭에서 **Oculus->Platform->Edit Settings**에 해당 기기의 **시리얼 키를 입력**해야 합니다.
   
 <br>
 
 **4. 구동 순서**
 
-  * **PythonLipYOLOv7/server/TCP_server.py** 를 실행합니다.
+  * PythonLipYOLOv7/server/TCP_server.py 를 실행합니다.
   
-  * **VR 기기를 켜서 앱을 구동**합니다.
+  * VR 기기를 켜서 앱을 구동합니다.
   
-  * **스마트폰 앱을 켜서 데스크탑 ip 주소와 VR 기기의 ip 주소를 입력**하고 start 버튼을 누릅니다.
+  * 스마트폰 앱을 켜서 데스크탑 ip 주소와 VR 기기의 ip 주소를 입력하고 start 버튼을 누릅니다.
   
-  * **PythonLipYOLOv7/yolov7-main/runs_fix.py**를 실행합니다.
+  * PythonLipYOLOv7/yolov7-main/runs_fix.py를 실행합니다.
   
