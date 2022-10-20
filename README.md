@@ -34,6 +34,7 @@ Jinseo Kim, rlawlstj1103@pusan.ac.kr, **HMD Tracking**
 
 ### 4. 소개 및 시연 영상
 
+[![16조 스마트폰을 이용한 HMD 사용자의 가상환경 상호작용 몰입 개선 방법 연구](http://img.youtube.com/vi/paBhnqleJRg/0.jpg)](https://youtu.be/paBhnqleJRg) 
 
 ### 5. 설치 및 사용법
 
