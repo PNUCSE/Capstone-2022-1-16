@@ -32,7 +32,7 @@ Jinseo Kim, rlawlstj1103@pusan.ac.kr, **HMD Tracking**
 
 ![졸업과제 시스템 구성도](https://user-images.githubusercontent.com/63496777/195577273-1105c23b-5138-4fbd-a883-6257a9e2e225.png)
 
-### 4. 소개 및 시연 영상
+### 4. 소개 및 시연 영상(Introduction and demonstration video)
 [https://www.youtube.com/watch?v=paBhnqleJRg](https://youtu.be/y0DlLQRIuyk)
 ### 5. 설치 및 사용법
 
